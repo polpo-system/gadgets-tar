@@ -16,7 +16,7 @@ portia.Install gadgets-tar
 ## What is here
 
     src/Tar.Mod          the document
-    tools/Tar.Tool
+    tools/TarDocs.Tool
     test/TarTest.Mod
 
 Tar is by Jacques Supcik. The source comes from ETH Linux Oberon (OLR, 2017-06-18), converted from an Oberon text to plain
